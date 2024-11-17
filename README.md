@@ -4,10 +4,11 @@
 
 # 型番
 ```
-SKBoard X YY
+SKBoard X YZ
 ```
 X: キーボードのサイズ・規格等
-<br>YY: バージョン
+<br>Y: 世代
+<br>Z: バージョン
 
 | X | 内容 |
 | - | - |
